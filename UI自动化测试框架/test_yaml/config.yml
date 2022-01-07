@@ -1,0 +1,22 @@
+name: Tom Smith
+age: 37
+spouse:
+    name: Jane Smith
+    age: 25
+children:
+ - name: Jimmy Smith
+   age: 15
+ - name1: Jenny Smith
+   age1: 12
+
+
+name1: Silenthand Olleander
+race: Human
+traits:
+- ONE_HAND
+- ONE_EYE
+age: 20
+name2: James
+---
+- lily
+- 19
