@@ -1,0 +1,3 @@
+- by: id
+  locator: com.xueqiu.android:id/tv_search
+  action: click
