@@ -1,0 +1,10 @@
+- by: xpath
+  locator: '//*[@resource-id="com.xueqiu.android:id/search_input_text"]'
+  action: send
+  value: alibaba
+- by: xpath
+  locator: '//*[@text="BABA"]'
+  action: click
+- by: xpath
+  locator: '//*[@text="股票"]'
+  action: click

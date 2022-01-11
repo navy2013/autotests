@@ -1,0 +1,3 @@
+- by: xpath
+  locator: '//*[@resource-id="com.xueqiu.android:id/item_stock"]//*[@text="阿里巴巴-SW"]/../..//*[@text="已添加"]'
+  action: click
