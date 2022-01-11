@@ -1,0 +1,29 @@
+[33mWARNING [0m root:wrapper.py:25 run find
+ args: 
+('xpath', "//*[@resource-id='android:id/tabs']//*[@text='行情']")
+{}
+[33mWARNING [0m root:wrapper.py:25 run find
+ args: 
+('xpath', '//*[@resource-id="com.xueqiu.android:id/search_input_text"]')
+{}
+[1m[31mERROR   [0m root:wrapper.py:37 element not found,handler_black list
+[33mWARNING [0m root:wrapper.py:25 run find
+ args: 
+('xpath', '//*[@resource-id="com.xueqiu.android:id/search_input_text"]')
+{}
+[33mWARNING [0m root:wrapper.py:25 run find
+ args: 
+('xpath', '//*[@text="BABA"]')
+{}
+[33mWARNING [0m root:wrapper.py:25 run find
+ args: 
+('xpath', '//*[@text="股票"]')
+{}
+[33mWARNING [0m root:wrapper.py:25 run find
+ args: 
+('xpath', '//*[@resource-id="com.xueqiu.android:id/item_stock"]//*[@text="阿里巴巴-SW"]/../..//*[@text="已添加"]')
+{}
+[33mWARNING [0m root:wrapper.py:25 run find
+ args: 
+('xpath', '//*[@resource-id="com.xueqiu.android:id/item_stock"]//*[@text="阿里巴巴-SW"]/../..//*[@text="加自选"]')
+{}
