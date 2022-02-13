@@ -1,0 +1,4 @@
+{
+  "pytest_sub/test_three.py::test_add_2": true,
+  "test_two.py::test_failinig": true
+}

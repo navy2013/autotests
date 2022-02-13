@@ -1,0 +1,6 @@
+[
+  "pytest_sub/test_three.py::test_add_1",
+  "pytest_sub/test_three.py::test_add_2",
+  "test_one.py::test_passing",
+  "test_two.py::test_failinig"
+]
